@@ -1,0 +1,6 @@
+it is used to create
+new repositiory
+in local system
+it can also change
+normal file in local sytem to git repository
+
