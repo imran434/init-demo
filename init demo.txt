@@ -3,4 +3,4 @@ new repositiory
 in local system
 it can also change
 normal file in local sytem to git repository
-
+i learnt init command 
